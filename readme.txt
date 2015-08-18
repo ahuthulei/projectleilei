@@ -5,3 +5,6 @@ Git tracks changes of files.
 add in master
 3.1415926
 
+
+stash bug fixed
+
