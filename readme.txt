@@ -6,4 +6,5 @@ Git tracks changes of files.
 取自花丛懒回顾，半缘修道半缘君。
 
 小伙伴添加的功能！dev
+小伙伴二次添加的功能 dev
 
