@@ -6,7 +6,6 @@ Git tracks changes of files.
 取自花丛懒回顾，半缘修道半缘君。
 
 
-磊磊添加  dev
-===========
-师师添加 dev
+磊磊 添加 师师 
+
 
